@@ -35,7 +35,7 @@ git clone https://github.com/Abimbolacodes/Movies_Box/
 
 ## 💬 Contact
 
-If you have an offer, opportunity, or introduction that might make my life more interesting, email me at olatunjiabimbola17@gmail.com.
+If you have an offer, opportunity, or introduction that might make my life more interesting, email me at abimbolalatunji@yahoo.com.
 
 For the reasons stated above, I'll only respond to proposals that are matched for my schedule and interests.
 
