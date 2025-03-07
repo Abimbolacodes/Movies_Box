@@ -14,7 +14,7 @@ const MovieModal = ({ movie, onClose }) => {
       try {
         const apiKey = import.meta.env.VITE_OMDB_API_KEY;
         console.log("API Key:", apiKey);
-        const url = `http://www.omdbapi.com/?apikey=${apiKey}&i=${movie.imdbID}&plot=full`;
+        const url = `https://www.omdbapi.com/?apikey=${apiKey}&i=${movie.imdbID}&plot=full`;
         console.log("Fetching URL:", url);
         
         const response = await fetch(url);

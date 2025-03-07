@@ -1,12 +1,44 @@
-# React + Vite
+<div align="center">
+  <h2 align="center">MovieBox - Car Rental Website</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ MovieBox is a React Vite application that allows users to search for movies using the OMDB API. <br/> Built using React.js and OMDB API. <br/>
 
-Currently, two official plugins are available:
+  <a href="https://movies-box-livid.vercel.app/"><strong>➥ Live Demo</strong></a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
 
-## Expanding the ESLint configuration
+<br />
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Demo Screeshots
+
+![Micro Desktop Demo](./src/assets/Readme.png "Desktop Demo")
+
+### Prerequisites
+
+
+
+### Installing Ridex
+
+To install **MovieBox**, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/Abimbolacodes/Movies_Box/
+```
+
+Windows:
+
+```bash
+git clone https://github.com/Abimbolacodes/Movies_Box/
+```
+
+## 💬 Contact
+
+If you have an offer, opportunity, or introduction that might make my life more interesting, email me at olatunjiabimbola17@gmail.com.
+
+For the reasons stated above, I'll only respond to proposals that are matched for my schedule and interests.
+
+### License
+
+This project is **free to use** and does not contains any license.
